@@ -8,7 +8,7 @@ meu nome é mais Alexander Mezones
 
 ### você entrar em comtato comigo 📫
 
-alexandermezones15@gmai.com
+alexandermezones15@gmail.com
 
 @alexandermezones
 
