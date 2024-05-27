@@ -1,17 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**AlexanderGMG123/AlexanderGMG123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é mais Alexander Mezones
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem javaScript
+- Utilizando esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](link)
+### você entrar em comtato comigo 📫
+
+alexandermezones15@gmai.com
+
+@alexandermezones
+
+![](https://media1.tenor.com/m/kPBGULXYKz8AAAAC/%D8%A7%D9%84%D9%86%D8%B5%D8%B1-ronaldo-al-nassr.gif)
